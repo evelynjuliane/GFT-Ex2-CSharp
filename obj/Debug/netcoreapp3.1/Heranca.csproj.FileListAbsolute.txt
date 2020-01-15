@@ -1,0 +1,11 @@
+C:\Users\EJDH\source\repos\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.csprojAssemblyReference.cache
+C:\Users\EJDH\source\repos\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfoInputs.cache
+C:\Users\EJDH\source\repos\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfo.cs
+C:\Users\EJDH\source\repos\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.exe
+C:\Users\EJDH\source\repos\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.deps.json
+C:\Users\EJDH\source\repos\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.json
+C:\Users\EJDH\source\repos\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.dev.json
+C:\Users\EJDH\source\repos\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\EJDH\source\repos\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\EJDH\source\repos\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\EJDH\source\repos\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.pdb
